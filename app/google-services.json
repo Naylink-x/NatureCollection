@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817416131827",
+    "firebase_url": "https://naturecollection-41b1c-default-rtdb.firebaseio.com/",
+    "project_id": "naturecollection-41b1c",
+    "storage_bucket": "naturecollection-41b1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817416131827:android:f90858c3af256e6c6ed386",
+        "android_client_info": {
+          "package_name": "fr.naylink.naturecollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817416131827-6frlc2qafi3rn1787rqmt17pq674ijkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuvwoiQ_lJpVVZWreRIimAv0PL0waER9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817416131827-6frlc2qafi3rn1787rqmt17pq674ijkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
